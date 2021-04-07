@@ -7,7 +7,7 @@ package latihan2;
 
 /**
  *
- * @author user
+ * @author Flapyd
  */
 public class Bus {
     private int penumpang, maxPenumpang;
