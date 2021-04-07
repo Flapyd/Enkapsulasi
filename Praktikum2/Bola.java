@@ -7,7 +7,7 @@ package Praktikum2;
 
 /**
  *
- * @author user
+ * @author Flapyd
  */
 public class Bola {
     private double jarijari;
