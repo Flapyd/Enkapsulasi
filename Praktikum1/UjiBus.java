@@ -7,7 +7,7 @@ package Praktikum1;
 
 /**
  *
- * @author user
+ * @author Flapyd
  */
 public class UjiBus {
 
