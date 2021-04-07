@@ -7,7 +7,7 @@ package latihan4;
 
 /**
  *
- * @author user
+ * @author Flapyd
  */
 public class UjiBus3 {
 
