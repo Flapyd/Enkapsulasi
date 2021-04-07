@@ -7,7 +7,7 @@ package latihan3;
 
 /**
  *
- * @author user
+ * @author Flapyd
  */
 public class EncapSiswa {
     private String name, address;
